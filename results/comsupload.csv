@@ -1,5 +1,5 @@
 cycle,district,juris,name,side,race,id
-2018,,State,,Democrat,Governor,0
+2018,,State,Farley,Democrat,Governor,0
 2018,,Non-Candidate Issue Ads,45 Committe PAC,Republican,President,1
 2018,,Non-Candidate Issue Ads,AFSCME People Pac,Democrat,Senate,2
 2018,,Non-Candidate Issue Ads,ARIZONA EDUCATION PROJECT,Corporate Tax Breaks,Red for Ed,3
@@ -9,7 +9,7 @@ cycle,district,juris,name,side,race,id
 2018,,Non-Candidate Issue Ads,Arizona Education Association,Funding Public Ed,Red for Ed,7
 2018,,Non-Candidate Issue Ads,Arizona Republican Party,Republican,Senate,8
 2018,,Non-Candidate Issue Ads,Arizona for Freedom,Republican,Attorney General,9
-2018,,Non-Candidate Issue Ads,Arizonans for Affordable Electricity,No,Prop 129,10
+2018,,Non-Candidate Issue Ads,Arizonans for Affordable Electricity,No,Prop 127,10
 2018,,State,CHISPA  PAC,,,11
 2018,,Non-Candidate Issue Ads,Chispa ARIZONA PAC,Vote,GOTV,12
 2018,,Non-Candidate Issue Ads,Citizens for Fair Tax Policy,Yes,Prop 126,13
@@ -23,8 +23,8 @@ cycle,district,juris,name,side,race,id
 2018,,Non-Candidate Issue Ads,Democratic Congressional Campaign Committee,Democrat,House,21
 2018,,State,Farley,Democrat,Governor,22
 2018,,Non-Candidate Issue Ads,Future 45,Republican,President,23
-2018,AZ 07,Federal,Gallego,Democrat,House,24
-2018,,State,Gallego,Democrat,Mayor,25
+2018,AZ 07,Federal,Gallego,Democrat,House,25
+2018,,State,Gallego,Gallego,Mayor,24
 2018,,State,Garcia,Democrat,Governor,26
 2018,,State,Gaynor    ,Republican,Secretary of State,27
 2018,AZ 09,Federal,Greg Stanton,Democrat,House,28
@@ -61,8 +61,8 @@ cycle,district,juris,name,side,race,id
 2018,,Non-Candidate Issue Ads,Tax March,Release Those Returns,Tax Returns,59
 2018,,Non-Candidate Issue Ads,Tom Steyer  Impeach Trump,Impeach,Impeachment,60
 2018,,Non-Candidate Issue Ads,Tom Steyer Issue Campaign,Impeach,Impeachment,61
-2018,,Non-Candidate Issue Ads,US Chamber of Commerce,Democrat,Senate,62
-2018,,State,Valenzuela,Democrat,Mayor,63
+2018,,Non-Candidate Issue Ads,US Chamber of Commerce,Republican,Senate,62
+2018,,State,Valenzuela,Valenzuela,Mayor,63
 2018,AZ 01,Federal,WENDY ROGERS   1,Republican,House,64
 2018,,Non-Candidate Issue Ads,WOMEN VOTE,Democrat,Senate,65
 2018,,State,Women Vote,Democrat,Senate,66

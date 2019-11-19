@@ -1,0 +1,56 @@
+,Date,Rate,Committee,Station,Time,Program
+0,2018-10-22,450.0,2018,test,9a-10a,Megyn Kelly Today
+1,2018-10-23,450.0,2018,test,9a-10a,Megyn Kelly Today
+2,2018-10-25,450.0,2018,test,9a-10a,Megyn Kelly Today
+3,2018-10-22,270.0,2018,test,11a-12p,Rachael Ray
+4,2018-10-23,270.0,2018,test,11a-12p,Rachael Ray
+5,2018-10-24,270.0,2018,test,11a-12p,Rachael Ray
+6,2018-10-25,270.0,2018,test,11a-12p,Rachael Ray
+7,2018-10-26,270.0,2018,test,11a-12p,Rachael Ray
+8,2018-10-22,360.0,2018,test,12p-1p,News 4 at Noon
+9,2018-10-23,360.0,2018,test,12p-1p,News 4 at Noon
+10,2018-10-24,360.0,2018,test,12p-1p,News 4 at Noon
+11,2018-10-25,360.0,2018,test,12p-1p,News 4 at Noon
+12,2018-10-26,360.0,2018,test,12p-1p,News 4 at Noon
+13,2018-10-24,650.0,2018,test,1p-2p,Days of Our Lives
+14,2018-10-22,270.0,2018,test,2p-3p,Dr Oz
+15,2018-10-23,270.0,2018,test,2p-3p,Dr Oz
+16,2018-10-24,270.0,2018,test,2p-3p,Dr Oz
+17,2018-10-25,270.0,2018,test,2p-3p,Dr Oz
+18,2018-10-26,270.0,2018,test,2p-3p,Dr Oz
+19,2018-10-22,270.0,2018,test,3p-4p,Dr Phil
+20,2018-10-23,270.0,2018,test,3p-4p,Dr Phil
+21,2018-10-24,270.0,2018,test,3p-4p,Dr Phil
+22,2018-10-25,270.0,2018,test,3p-4p,Dr Phil
+23,2018-10-26,270.0,2018,test,3p-4p,Dr Phil
+24,2018-10-22,2000.0,2018,test,9p-10p,Manifest
+25,2018-10-23,1900.0,2018,test,9p-10p,New Amsterdam
+26,2018-10-24,1800.0,2018,test,9p-10p,Chicago PD
+27,2018-10-26,1500.0,2018,test,7p-8p,Blindspot
+28,2018-10-22,1000.0,2018,test,10p-1035p,Late News Wkdy
+29,2018-10-23,1000.0,2018,test,10p-1035p,Late News Wkdy
+30,2018-10-24,1000.0,2018,test,10p-1035p,Late News Wkdy
+31,2018-10-25,1000.0,2018,test,10p-1035p,Late News Wkdy
+32,2018-10-26,1000.0,2018,test,10p-1035p,Late News Wkdy
+33,2018-10-27,900.0,2018,test,10p-1030p,Late News Sa
+34,2018-10-28,900.0,2018,test,10p-1035p,Late News Su
+35,2018-10-22,40.0,2018,test,1239a-109a,Last Call
+36,2018-10-23,40.0,2018,test,1239a-109a,Last Call
+37,2018-10-26,40.0,2018,test,1239a-109a,Last Call
+38,2018-10-22,200.0,2018,test,,Late Night
+39,2018-10-23,200.0,2018,test,,Late Night
+40,2018-10-24,200.0,2018,test,,Late Night
+41,2018-10-25,200.0,2018,test,,Late Night
+42,2018-10-26,200.0,2018,test,,Late Night
+43,2018-10-28,30.0,2018,test,1205a-105a,Major Crimes
+44,2018-10-28,30.0,2018,test,1a-2a,Major Crimes
+45,2018-10-28,50.0,2018,test,,Person of Interest
+46,2018-10-25,1300.0,2018,test,1p-2p,Days of Our Lives
+47,2018-10-26,1300.0,2018,test,1p-2p,Days of Our Lives
+48,2018-10-17,1600.0,2018,test,6p-630p,News 4 at 6p
+49,2018-10-27,900.0,2018,test,530p-6p,Early News Sa
+50,2018-10-27,120.0,2018,test,6p-7p,"Listener, The"
+51,2018-10-26,3000.0,2018,test,8p-9p,Midnight Texas
+52,2018-10-28,60.0,2018,test,1205a-105a,Major Crimes
+53,2018-10-28,60.0,2018,test,1a-2a,Major Crimes
+54,2018-10-28,100.0,2018,test,,Person of Interest
