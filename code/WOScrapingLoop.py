@@ -169,7 +169,7 @@ def parseCyclePDFs(cyc, basepath, test):
         fulladlist['Cycle'] = cyc
     return {'ads': fulladlist, 'pdfs': pdfResults, 'malformedads': malads}
 print('test')
-results = parseCyclePDFs('2018', '/media/andrew/F08C9B848C9B444E/analysis/tv/buys/PHOENIX (PRESCOTT)/KPNX/Political Files/2018/Non-Candidate Issue Ads/Citizens for Fair Tax Policy 2018', test=True)
+results = parseCyclePDFs('2018', '/media/andrew/F08C9B848C9B444E/analysis/tv/buys/PHOENIX (PRESCOTT)/', test=False)
 #results['ads'].to_csv('scrapedads.csv', index=False)
 #results['pdfs'].to_csv('pdfresults.csv', index=False)
 ## Local News @ 5p M-F M-F 5-530p
