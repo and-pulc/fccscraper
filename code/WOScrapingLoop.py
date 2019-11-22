@@ -157,6 +157,7 @@ def parseCyclePDFs(cyc, basepath, test):
             invoiceads = invoiceads.drop_duplicates()
             fulladlist = fulladlist.append(oa, ignore_index=True, sort=False)
             fulladlist = fulladlist.append(ia, ignore_index=True, sort=False)
+            fulladlist['Cycle'] = cyc
             fulladlist.to_csv('scrapedads.csv', index=False)
             pdfResults.to_csv('pdfresults.csv', index=False)
     for dirName, subdirList, fileList in os.walk(basepath):
@@ -166,7 +167,6 @@ def parseCyclePDFs(cyc, basepath, test):
             if isStationFolder(dirName):
                 dn = dirName.split('/')
                 print(dn[-2])
-        fulladlist['Cycle'] = cyc
     return {'ads': fulladlist, 'pdfs': pdfResults, 'malformedads': malads}
 print('test')
 results = parseCyclePDFs('2018', '/media/andrew/F08C9B848C9B444E/analysis/tv/buys/PHOENIX (PRESCOTT)/', test=False)

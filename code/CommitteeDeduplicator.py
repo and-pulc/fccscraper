@@ -124,7 +124,7 @@ def mergeInStationPACids():
     key = key.rename(columns={'Name':'Committee', 'id':'pacid'})
     key = key[['Committee','pacid']]
     key = key.drop_duplicates()
-    print(key)
+   # print(key)
     # Running on empty directories fails the pac search for AZ09, pac search would pick this up on your desktop.
     ads.loc[ads.Committee == 'AZ 09', 'Committee'] = 'Greg Stanton for Congress'
     ads = ads.merge(key[['Committee', 'pacid']], on='Committee', how='left').drop(['Committee'], axis=1)
